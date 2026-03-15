@@ -14,6 +14,7 @@ Tools to help you create titles, scripts, descriptions, and optimize content for
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [InVideo](https://invideo.io/)
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets.
 
 ---
 
