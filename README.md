@@ -36,6 +36,7 @@ Improve your website's visibility with AI-powered SEO suggestions and analysis.
 - [NeuronWriter](https://neuronwriter.com/)
 - [Scalenut](https://www.scalenut.com/)
 - [Clearscope](https://www.clearscope.io/)
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills; pulls GSC/PageSpeed/Ads API data, ships meta tag and schema fixes to WordPress/Strapi/Contentful/Ghost. 107⭐.
 
 ---
 
