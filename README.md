@@ -36,6 +36,7 @@ Improve your website's visibility with AI-powered SEO suggestions and analysis.
 - [NeuronWriter](https://neuronwriter.com/)
 - [Scalenut](https://www.scalenut.com/)
 - [Clearscope](https://www.clearscope.io/)
+- [NotFair](https://github.com/nowork-studio/NotFair) – Open-source Claude Code agent skills (~2.9k stars, MIT) for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ---
 
