@@ -113,6 +113,7 @@ Automate tweets, reply suggestions, and trend analysis.
 - [Hypefury](https://hypefury.com/)
 - [Chirr App](https://chirr.app/)
 - [Zlappo](https://zlappo.com/)
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet)
 
 ---
 
