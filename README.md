@@ -27,6 +27,7 @@ Automatically generate marketing strategies and roadmaps tailored to your busine
 - [Ocoya](https://www.ocoya.com/)
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
 
 ## 3. [AI SEO Assistant](https://submitaitools.org/category/best-ai-seo-assistant-tools)
 Improve your website's visibility with AI-powered SEO suggestions and analysis.
