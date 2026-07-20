@@ -36,6 +36,7 @@ Improve your website's visibility with AI-powered SEO suggestions and analysis.
 - [NeuronWriter](https://neuronwriter.com/)
 - [Scalenut](https://www.scalenut.com/)
 - [Clearscope](https://www.clearscope.io/)
+- [Screpy](https://screpy.com/)
 
 ---
 
