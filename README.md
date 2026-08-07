@@ -69,7 +69,7 @@ Plan, write, and schedule social media posts with AI help.
 - [Hootsuite](https://www.hootsuite.com/)
 - [Predis](https://predis.ai/)
 - [SocialBee](https://socialbee.com/)
-- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
+- [Autoposting](https://autoposting.ai/)
 
 ---
 
