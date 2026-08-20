@@ -87,6 +87,7 @@ Generate trending and optimized hashtags for better reach.
 Automate ad creation, targeting, and optimization.
 
 - [AdCreative.ai](https://www.adcreative.ai/)
+- [AdMapix](https://www.admapix.com/) - AI ad creative intelligence platform for researching competitor advertising across mobile games, apps, and ecommerce
 - [Pencil](https://www.trypencil.com/)
 - [Madgicx](https://www.madgicx.com/)
 - [Replai](https://replai.io/)
