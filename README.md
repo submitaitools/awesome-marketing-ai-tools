@@ -68,6 +68,7 @@ Plan, write, and schedule social media posts with AI help.
 - [Ocoya](https://www.ocoya.com/)
 - [Hootsuite](https://www.hootsuite.com/)
 - [Predis](https://predis.ai/)
+- [Social media studio](https://so-me.studio)
 - [SocialBee](https://socialbee.com/)
 
 ---
