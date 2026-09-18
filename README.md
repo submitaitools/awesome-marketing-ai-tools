@@ -179,6 +179,7 @@ Repurpose content across formats and platforms using AI.
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [Vidyo.ai](https://vidyo.ai/)
+- [Orkas VideoStudio](https://orkas.ai/agents/video-studio/?source=gh_samkt) - VideoStudio turns briefs and footage into finished videos inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
 
 ---
 
