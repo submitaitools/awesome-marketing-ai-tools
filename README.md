@@ -179,6 +179,7 @@ Repurpose content across formats and platforms using AI.
 - [Pictory](https://pictory.ai/)
 - [Lumen5](https://www.lumen5.com/)
 - [Vidyo.ai](https://vidyo.ai/)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
 
 ---
 
