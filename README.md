@@ -69,6 +69,7 @@ Plan, write, and schedule social media posts with AI help.
 - [Hootsuite](https://www.hootsuite.com/)
 - [Predis](https://predis.ai/)
 - [SocialBee](https://socialbee.com/)
+- [SocialRoster](https://socialroster.dev/)
 
 ---
 
