@@ -211,6 +211,7 @@ Create engaging visuals and copy for ads.
 - [Jasper](https://www.jasper.ai/)
 - [Copy.ai](https://www.copy.ai/)
 - [Designs.ai](https://designs.ai/)
+- [Raphael AI](https://raphael.app) — AI design studio for product photos, ad creatives, and brand visuals
 - [MagicBrief](https://magicbrief.com/)
 
 ---
