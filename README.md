@@ -1,5 +1,6 @@
 # 📈 Awesome [AI Marketing Tools](https://submitaitools.org/category/best-ai-marketing-tools)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A curated list of amazing AI tools designed to help marketers automate workflows, optimize campaigns, and drive growth.
 
 This list was curated by [SubmitAITools.org](https://submitaitools.org/) – your trusted directory for discovering the best AI tools.
