@@ -87,6 +87,7 @@ Generate trending and optimized hashtags for better reach.
 Automate ad creation, targeting, and optimization.
 
 - [AdCreative.ai](https://www.adcreative.ai/)
+- [AdVariq](https://advariq.com/)
 - [Pencil](https://www.trypencil.com/)
 - [Madgicx](https://www.madgicx.com/)
 - [Replai](https://replai.io/)
@@ -208,6 +209,7 @@ Collect, manage, and respond to customer reviews intelligently.
 Create engaging visuals and copy for ads.
 
 - [AdCreative.ai](https://www.adcreative.ai/)
+- [AdVariq](https://advariq.com/)
 - [Jasper](https://www.jasper.ai/)
 - [Copy.ai](https://www.copy.ai/)
 - [Designs.ai](https://designs.ai/)
